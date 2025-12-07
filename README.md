@@ -1,4 +1,4 @@
-# Computer Architecture Lab 6
+# Computer Architecture Lab 3
 __________________________________________
 
 ### Screenshots of the Terminal
